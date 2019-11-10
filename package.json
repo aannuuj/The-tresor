@@ -1,10 +1,8 @@
 {
-  "name": "black-kit",
-  "description": "Bootstrap 4 Black Design",
-  "version": "1.0.1",
-  "homepage": "http://creative-tim.com/product/blk-design-system",
-  "author": "Creative Tim",
-  "license": "Creative Tim License <www.creative-tim.com/license>",
+  "name": "Tresor",
+  "description": "Custom Gifts",
+  "version": "1.0.0",
+  "author": "Popcorn",
   "devDependencies": {
     "gulp": "^3.9.1",
     "gulp-autoprefixer": "^4.1.0",
